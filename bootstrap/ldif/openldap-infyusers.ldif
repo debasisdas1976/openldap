@@ -69,7 +69,7 @@ sn: lauraSN
 uid: laura
 userPassword: Passw0rd
 
-dn: uid=josie,ou=users,dc=ibm,dc=com
+dn: uid=josie,ou=users,dc=infosys,dc=com
 changetype: add
 objectClass: inetOrgPerson
 objectClass: organizationalPerson
